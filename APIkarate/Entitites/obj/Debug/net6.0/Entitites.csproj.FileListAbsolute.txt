@@ -1,0 +1,12 @@
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Entitites\obj\Debug\net6.0\Entitites.csproj.AssemblyReference.cache
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Entitites\obj\Debug\net6.0\Entitites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Entitites\obj\Debug\net6.0\Entitites.AssemblyInfoInputs.cache
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Entitites\obj\Debug\net6.0\Entitites.AssemblyInfo.cs
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Entitites\obj\Debug\net6.0\Entitites.csproj.CoreCompileInputs.cache
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Entitites\bin\Debug\net6.0\Entitites.deps.json
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Entitites\bin\Debug\net6.0\Entitites.dll
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Entitites\bin\Debug\net6.0\Entitites.pdb
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Entitites\obj\Debug\net6.0\Entitites.dll
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Entitites\obj\Debug\net6.0\refint\Entitites.dll
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Entitites\obj\Debug\net6.0\Entitites.pdb
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Entitites\obj\Debug\net6.0\ref\Entitites.dll

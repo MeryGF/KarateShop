@@ -1,6 +1,10 @@
-﻿namespace APIkarate.IServices
+﻿
+using Entities.Entities;
+
+namespace APIService.IServices
 {
-    public class KarateProductsIServices
+    public interface KarateProductsIServices
     {
+        int InsertKarateProducts(KarateProducts KarateProducts);
     }
 }
