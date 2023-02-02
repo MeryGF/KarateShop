@@ -37,6 +37,13 @@ namespace Logic.Logic
            KarateProductsToDelete.IsActive = false;
            _serviceContext.SaveChanges();
         }
+        //public List<KarateProducts> GetProductsByCriteria(KarateProductsFilter KarateProductsFilter)
+        //{
+        //    //ejemplo para IsActive solamente
+        //    return _serviceContext.Set<KarateProducts>()
+        //        .Where(p => p.IsActive == KarateProductsFilter.IsActive)
+        //        .ToList();
+        //}
 
         //public void UpdateKarateProducts(KarateProducts karateProducts)
         //{

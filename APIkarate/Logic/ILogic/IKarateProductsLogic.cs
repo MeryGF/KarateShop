@@ -13,6 +13,8 @@ namespace Logic.ILogic
         List<KarateProducts> GetAllKarateProducts();
         void UpdateKarateProducts(KarateProducts karateProducts);
         void DeleteKarateProducts(int id);
+        //List<KarateProducts> GetProductsByCriteria(KarateProductsFilter karateProductsFilter);
+        
     }
 }
 

@@ -31,6 +31,10 @@ namespace APIService.Services
         {
             _KarateProductsLogic.UpdateKarateProducts(karateProducts);
         }
+        //public List<KarateProducts> GetProductsByCriteria(KarateProductsFilter karateProductsFilter)
+        //{
+        //    return _KarateProductsLogic.GetProductsByCriteria(karateProductsFilter);
+        //}
     }
 }
 

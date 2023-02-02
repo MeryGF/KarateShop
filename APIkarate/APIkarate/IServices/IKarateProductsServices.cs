@@ -10,5 +10,6 @@ namespace APIService.IServices
         //void ValidateCredentials(KarateProducts karateProducts);
         void DeleteKarateProducts(int id);
         void UpdateKarateProducts(KarateProducts karateProducts);
+
     }
 }
