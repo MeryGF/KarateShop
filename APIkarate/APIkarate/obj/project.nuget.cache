@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pgNKCUzwBi94cEds9HX6MrwDJpW5a42wFTgdnNZhh/5+x167+zBpYC6Dh3uKsDFokTvQ4hqgxIEuBmpACqJZrA==",
+  "dgSpecHash": "Im3TOqmaG0U4D3te5kR/2XbdQ23TUZAgC0+dJliyvAixfxTmuGjKAEvGeJACXhAvONWhomQcbRTDcvM2suFEqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\miria\\Desktop\\FemCodersF5\\Actividades-Talleres\\ProyectoAPI\\KarateShop\\APIkarate\\APIkarate\\APIkarate.csproj",
+  "projectFilePath": "C:\\Users\\miria\\Desktop\\FemCodersF5\\Actividades-Talleres\\ProyectoAPI\\karateShop\\APIkarate\\APIkarate\\APIkarate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\miria\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\miria\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6mwdVb4ubGbQiBbkDpDaVq1tgi/tF6s3zDDqwI8skdptYnqfvLI8GBGukzx2ZawozCO5RFW4n54qJgxqOXVYuQ==",
+  "dgSpecHash": "YCnO7p7p1djxLOPb7FqjfZ9O1LwVXkV1DSfiAPaQwFNtlkBYqL8jKF/36Odhnaawz1Xzs6+j90yESmkYjVdHJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\miria\\Desktop\\FemCodersF5\\Actividades-Talleres\\ProyectoAPI\\KarateShop\\APIkarate\\Logic\\Logic.csproj",
+  "projectFilePath": "C:\\Users\\miria\\Desktop\\FemCodersF5\\Actividades-Talleres\\ProyectoAPI\\karateShop\\APIkarate\\Logic\\Logic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\miria\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\miria\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
