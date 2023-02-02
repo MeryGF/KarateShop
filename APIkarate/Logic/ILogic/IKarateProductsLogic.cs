@@ -7,8 +7,12 @@ using System.Threading.Tasks;
 
 namespace Logic.ILogic
 {
-    public interface KarateProductsILogic
+    public interface IKarateProductsLogic
     {
         int InsertKarateProducts(KarateProducts KarateProducts);
+        List<KarateProducts> GetAllKarateProducts();
+        void UpdateKarateProducts(KarateProducts karateProducts);
+        void DeleteKarateProducts(int id);
     }
 }
+

@@ -7,11 +7,11 @@ using System.Xml.Linq;
 namespace APIService.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("[controller]/[action]")]
     public class KarateProductsController : ControllerBase
     {
         private readonly ILogger<KarateProductsController> _logger;
-        private readonly KarateProductsIServices _KarateProductsServices;
+        private readonly IKarateProductsServices _KarateProductsServices;
         public KarateProductsController(ILogger<KarateProductsController> logger, KarateProductsServices KarateProductsServices)
         {
             _logger = logger;
@@ -24,5 +24,25 @@ namespace APIService.Controllers
             //     _userService.ValidateCredentials(userItem);
             return _KarateProductsServices.InsertKarateProducts(KarateProducts);
         }
+        [HttpGet(Name = "GetAllProducts")]
+        public List<KarateProducts> GetAll()
+        {
+            //     _userService.ValidateCredentials(userItem);
+            return _KarateProductsServices.GetAllKarateProducts();
+        }
+        [HttpPatch(Name = "ModifyProduct")]
+        public void Patch([FromBody] KarateProducts karateProducts)
+        {
+            _KarateProductsServices.UpdateKarateProducts(karateProducts);
+        }
+        [HttpDelete(Name = "DeleteProduct")]
+        public void Delete([FromQuery] int id)
+        {
+            _KarateProductsServices.DeleteKarateProducts(id);
+        }
     }
 }
+
+
+
+ 

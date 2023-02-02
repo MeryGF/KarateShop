@@ -5,11 +5,11 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIkarate", "APIkarate\APIkarate.csproj", "{07516417-53D8-42BB-A8E1-042B7ED9C6A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entitites", "Entitites\Entitites.csproj", "{0113B9AD-8FA2-4E6A-9701-91BBE481175D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entitites", "Entitites\Entitites.csproj", "{0113B9AD-8FA2-4E6A-9701-91BBE481175D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{BBE3A134-BBE6-4BD5-964F-EE190331B50A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{BBE3A134-BBE6-4BD5-964F-EE190331B50A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{92012C6D-16E9-489D-AF20-7E749F14D713}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logic", "Logic\Logic.csproj", "{92012C6D-16E9-489D-AF20-7E749F14D713}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

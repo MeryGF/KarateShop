@@ -16,12 +16,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddScoped<KarateProductsIServices, KarateProductsServices>();
+builder.Services.AddScoped<IKarateProductsServices, KarateProductsServices>();
 //builder.Services.AddScoped<OrdersIServices, OrdersServices>();
 //builder.Services.AddScoped<UsersIServices, UsersServices>();
 //builder.Services.AddScoped<BrandsIServices, BrandsServices>();
 
-builder.Services.AddScoped<KarateProductsILogic, KarateProductsLogic>();
+builder.Services.AddScoped<IKarateProductsLogic, KarateProductsLogic>();
 //builder.Services.AddScoped<OrdersILogic, OrdersLogic>();
 //builder.Services.AddScoped<UsersILogic, UsersLogic>();
 //builder.Services.AddScoped<BrandsILogic, BrandsLogic>();

@@ -15,3 +15,5 @@ C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\A
 C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Logic\obj\Debug\net6.0\refint\Logic.dll
 C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Logic\obj\Debug\net6.0\Logic.pdb
 C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Logic\obj\Debug\net6.0\ref\Logic.dll
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Logic\bin\Debug\net6.0\Logic.runtimeconfig.json
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\Logic\obj\Debug\net6.0\Logic.genruntimeconfig.cache

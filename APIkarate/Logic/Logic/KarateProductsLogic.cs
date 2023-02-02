@@ -1,6 +1,7 @@
 ﻿using Data;
 using Entities.Entities;
 using Logic.ILogic;
+using Logic.Logic;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Logic.Logic
 {
-    public class KarateProductsLogic : BaseContextLogic, KarateProductsILogic
+    public class KarateProductsLogic : BaseContextLogic, IKarateProductsLogic
     {
         public KarateProductsLogic(ServiceContext serviceContext) : base(serviceContext) { }
         public int InsertKarateProducts(KarateProducts KarateProducts)
@@ -19,5 +20,28 @@ namespace Logic.Logic
             _serviceContext.SaveChanges();
             return KarateProducts.Id;
         }
+        public List<KarateProducts> GetAllKarateProducts() {
+         return _serviceContext.Set<KarateProducts>().ToList();
+        }
+        public void UpdateProductItem(KarateProducts karateProducts)
+        {
+            _serviceContext.SaveChanges();
+
+            //Path-->MODIFICAR            
+        }
+        public void DeleteKarateProducts(int id)
+        {
+            var KarateProductsToDelete = _serviceContext.Set<KarateProducts>()
+                 .Where(u => u.Id == id).First();
+            KarateProductsToDelete.IsActive = false;
+            _serviceContext.SaveChanges();
+        }
+
+        public void UpdateKarateProducts(KarateProducts karateProducts)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
+
+  

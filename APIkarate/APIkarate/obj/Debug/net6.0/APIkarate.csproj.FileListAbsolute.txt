@@ -91,3 +91,9 @@ C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\A
 C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\APIkarate\obj\Debug\net6.0\APIkarate.pdb
 C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\APIkarate\obj\Debug\net6.0\APIkarate.genruntimeconfig.cache
 C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\APIkarate\obj\Debug\net6.0\ref\APIkarate.dll
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\APIkarate\obj\Debug\net6.0\APIkarate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\APIkarate\bin\Debug\net6.0\Humanizer.dll
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\APIkarate\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\APIkarate\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\APIkarate\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\miria\Desktop\FemCodersF5\Actividades-Talleres\ProyectoAPI\KarateShop\APIkarate\APIkarate\bin\Debug\net6.0\System.CodeDom.dll
