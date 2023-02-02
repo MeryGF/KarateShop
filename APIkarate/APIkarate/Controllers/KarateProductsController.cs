@@ -1,18 +1,18 @@
 ﻿using APIService.IServices;
-using APIService.Services;
+//using APIService.Services;
 using Entities.Entities;
 using Microsoft.AspNetCore.Mvc;
-using System.Xml.Linq;
+//using System.Xml.Linq;
 
 namespace APIService.Controllers
 {
     [ApiController]
-    [Route("[controller]/[action]")]
+    [Route("[controller]")]
     public class KarateProductsController : ControllerBase
     {
         private readonly ILogger<KarateProductsController> _logger;
         private readonly IKarateProductsServices _KarateProductsServices;
-        public KarateProductsController(ILogger<KarateProductsController> logger, KarateProductsServices KarateProductsServices)
+        public KarateProductsController(ILogger<KarateProductsController> logger, IKarateProductsServices KarateProductsServices)
         {
             _logger = logger;
             _KarateProductsServices = KarateProductsServices;
@@ -25,9 +25,9 @@ namespace APIService.Controllers
             return _KarateProductsServices.InsertKarateProducts(KarateProducts);
         }
         [HttpGet(Name = "GetAllProducts")]
-        public List<KarateProducts> GetAll()
+        public List<KarateProducts> GetAllKarateProducts()
         {
-            //     _userService.ValidateCredentials(userItem);
+            //_KarateProductsServices.ValidateCredentials(KarateProducts);
             return _KarateProductsServices.GetAllKarateProducts();
         }
         [HttpPatch(Name = "ModifyProduct")]

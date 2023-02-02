@@ -7,6 +7,7 @@ namespace APIService.IServices
     {
         int InsertKarateProducts(KarateProducts KarateProducts);
         List<KarateProducts> GetAllKarateProducts();
+        //void ValidateCredentials(KarateProducts karateProducts);
         void DeleteKarateProducts(int id);
         void UpdateKarateProducts(KarateProducts karateProducts);
     }

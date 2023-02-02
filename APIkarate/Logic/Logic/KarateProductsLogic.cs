@@ -21,26 +21,27 @@ namespace Logic.Logic
             return KarateProducts.Id;
         }
         public List<KarateProducts> GetAllKarateProducts() {
-         return _serviceContext.Set<KarateProducts>().ToList();
+        return _serviceContext.Set<KarateProducts>().ToList();
         }
-        public void UpdateProductItem(KarateProducts karateProducts)
+        public void UpdateKarateProducts(KarateProducts karateProducts)
         {
-            _serviceContext.SaveChanges();
+           _serviceContext.KarateProducts.Update(karateProducts);
+           _serviceContext.SaveChanges();
 
-            //Path-->MODIFICAR            
+           //Path-->MODIFICAR            
         }
         public void DeleteKarateProducts(int id)
         {
             var KarateProductsToDelete = _serviceContext.Set<KarateProducts>()
                  .Where(u => u.Id == id).First();
-            KarateProductsToDelete.IsActive = false;
-            _serviceContext.SaveChanges();
+           KarateProductsToDelete.IsActive = false;
+           _serviceContext.SaveChanges();
         }
 
-        public void UpdateKarateProducts(KarateProducts karateProducts)
-        {
-            throw new NotImplementedException();
-        }
+        //public void UpdateKarateProducts(KarateProducts karateProducts)
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }
 
