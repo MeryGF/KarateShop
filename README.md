@@ -35,6 +35,20 @@
   Ejemplo SQL:
   
   <img width="371" alt="image" src="https://user-images.githubusercontent.com/117834441/216582953-dee704f6-1d55-41c6-87d9-a788331ecc8f.png">
+  
+  ## Extensiones Pendientes
+  
+  Me gustaría seguir trabajando, avanzando y aprendiendo en este proyecto. Tengo como objetivo llegar a tener implementadas las siguientes funciones:
+  
+      - Añadir el resto de tablas/rutas
+      - Aplicar filtro de marcas 
+      - Añadir el administrador de Usuarios
+      - Que el sistema marque los pedidos como entregados, no entregados y cobrados 
+      - Los usuarios pueden realizar y ver sus pedidos
+ 
+  Además de estas consignas me gustaría seguir avanzando en el ámbito del Back-End, aprender y nutrirme cada día más de este mundo. 
+      
+      
 
 
 
