@@ -2,7 +2,7 @@
 
  ## Información General
  
- Este proyecto consiste en la creación de una API que tiene como objetivo manejar el flujo de la información de una actividad comercial en concreto. Ésta estará dirigida a aquellos negocios que tengan la necesidad de optimizar, organizar y clasificar sus bases de datos en tablas y poder manejarlas dentro del negocio. En principio sin una visualización Front de estos datos.  
+ Este proyecto consiste en la creación de una API que tiene como objetivo manejar el flujo de la información de una actividad comercial en concreto. Ésta estará dirigida a aquellos negocios que tengan la necesidad de optimizar, organizar y clasificar sus bases de datos en tablas y poder manejarlas dentro del negocio. En principio, sin una visualización Front de estos datos.  
  
  ## Negocio y Fundamentación del Proyecto
  
