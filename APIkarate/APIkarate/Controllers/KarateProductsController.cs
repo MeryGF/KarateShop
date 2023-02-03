@@ -40,6 +40,8 @@ namespace APIService.Controllers
         {
             _KarateProductsServices.DeleteKarateProducts(id);
         }
+
+        
     }
 }
 

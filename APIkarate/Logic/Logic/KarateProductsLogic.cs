@@ -25,9 +25,10 @@ namespace Logic.Logic
         }
         public void UpdateKarateProducts(KarateProducts karateProducts)
         {
+          
            _serviceContext.KarateProducts.Update(karateProducts);
            _serviceContext.SaveChanges();
-
+            
            //Path-->MODIFICAR            
         }
         public void DeleteKarateProducts(int id)
