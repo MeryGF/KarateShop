@@ -49,9 +49,12 @@
   Además de estas consignas me gustaría seguir avanzando en el ámbito del Back-End, aprender y nutrirme cada día más de este mundo. 
       
       
+<<<<<<< HEAD
 
 
 
  
 
  
+=======
+>>>>>>> dev

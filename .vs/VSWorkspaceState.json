@@ -1,4 +1,13 @@
 {
+<<<<<<< HEAD
   "ExpandedNodes": [],
+=======
+  "ExpandedNodes": [
+    "",
+    "\\APIkarate",
+    "\\APIkarate\\APIkarate"
+  ],
+  "SelectedNode": "\\APIkarate",
+>>>>>>> dev
   "PreviewInSolutionExplorer": false
 }
